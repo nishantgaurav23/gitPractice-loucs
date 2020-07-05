@@ -1,0 +1,1 @@
+console.log("The world is suffering from Covid -19 pandemic")
